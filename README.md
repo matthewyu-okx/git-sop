@@ -1,1 +1,1 @@
-# git-sop squash 1
+# git-sop
