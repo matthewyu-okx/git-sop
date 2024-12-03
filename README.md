@@ -1,3 +1,3 @@
 # git-sop s
 
-## Feature 2
+## Feature 2 - add a new feature
