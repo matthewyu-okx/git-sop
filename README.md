@@ -1,3 +1,3 @@
 # git-sop
 
-## Feature 1 - squash
+## Feature 1 - squash 1
